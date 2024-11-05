@@ -34,3 +34,47 @@
 // }
 // else (console.log("outside"))
 
+// let shoppingDone = false;
+// let childsAllowance;
+
+// if (shoppingDone) {
+//     childsAllowance = 10
+// } 
+// else {
+//     childsAllowance = 5
+// }
+
+// console.log(childsAllowance)
+
+// let iceCream;
+// let room2;
+
+// if (iceCream || room2 === "on fire") {
+//     console.log('You should leave Know!')
+// }
+// else {
+//     console.log("It's okay to say here")
+// }
+
+// let iceCream;
+// let room2;
+
+// if (!(iceCream || room2 === "on fire")) {
+//     console.log('You should leave Know!')
+// }
+// else {
+//     console.log("It's okay to say here")
+// }
+// const isBirthday = false;
+
+// const greeting = isBirthday
+// ? console.log("Happy birthday")
+// : console.log("Good Morning");
+
+// const isBirthday = true;
+
+// const greeting = isBirthday
+// ? console.log("Happy birthday")
+// : console.log("Good Morning");
+
+
