@@ -131,6 +131,15 @@
 
 // console.log(family[4])
 
-let helder = ['Helder',22,'Santa Cruz']
+// let helder = ['Helder',22,'Santa Cruz']
 
-console.log(helder)
+// console.log(helder)
+
+                // Function
+// let velocity = 80;
+
+// function accelerate() {
+//     velocity = 100;
+// }
+// accelerate()
+// console.log(velocity)
