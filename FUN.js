@@ -125,3 +125,12 @@
 //     other :'Jesus' 
 // }
 // console.log(bible)
+
+            //    Arrays
+// let family = [12,14,21,56,'Elwis',90,84,61]
+
+// console.log(family[4])
+
+let helder = ['Helder',22,'Santa Cruz']
+
+console.log(helder)
