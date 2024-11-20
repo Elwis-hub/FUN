@@ -88,6 +88,8 @@
 
 // let browser = prompt("Which browser do you use?", '');
 
+                // Switch
+
 // if(browser == 'Edge') {
 //     alert("You've got the Edge!");
 //   } else if (browser == 'Chrome'
@@ -98,18 +100,28 @@
 //   } else {
 //     alert( 'We hope that this page looks ok!' );
 //   }
-switch (browser) {
-    case 'Edge':
-      alert( "You've got the Edge!" );
-      break;
+// switch (browser) {
+//     case 'Edge':
+//       alert( "You've got the Edge!" );
+//       break;
   
-    case 'Chrome':
-    case 'Firefox':
-    case 'Safari':
-    case 'Opera':
-      alert( 'Okay we support these browsers too' );
-      break;
+//     case 'Chrome':
+//     case 'Firefox':
+//     case 'Safari':
+//     case 'Opera':
+//       alert( 'Okay we support these browsers too' );
+//       break;
   
-    default:
-      alert( 'We hope that this page looks ok!' );
-  }
+//     default:
+//       alert( 'We hope that this page looks ok!' );
+//   }
+
+                // Object
+
+// let bible = {
+//     color :'black',
+//     cap :2,
+//     verse :14,
+//     other :'Jesus' 
+// }
+// console.log(bible)
