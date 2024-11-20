@@ -14,8 +14,8 @@
 
 // console.log(fistName || lastName || nickName || "Elwis")
 
-// (&&) AND
-// let age = 12;
+// (&&) AND;
+// let hour = 12;
 // let minute = 30;
 
 // if (hour == 12 && minute == 30) {
@@ -77,11 +77,24 @@
 // ? console.log("Happy birthday")
 // : console.log("Good Morning");
 
-let value = prompt("What is the official name of JavaScript?"); 
+// let value = prompt("What is the official name of JavaScript?"); 
 
-if (value == 'ECMAScript') {
-    alert("Right!")
-}
-else {
-    alert("Wrong!")
-}
+// if (value == 'ECMAScript') {
+//     alert("Right!")
+// }
+// else {
+//     alert("Wrong!")
+// }
+
+// let browser = prompt("Which browser do you use?", '');
+
+// if(browser == 'Edge') {
+//     alert("You've got the Edge!");
+//   } else if (browser == 'Chrome'
+//    || browser == 'Firefox'
+//    || browser == 'Safari'
+//    || browser == 'Opera') {
+//     alert( 'Okay we support these browsers too' );
+//   } else {
+//     alert( 'We hope that this page looks ok!' );
+//   }
